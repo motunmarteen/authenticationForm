@@ -1,7 +1,7 @@
 import './App.css';
 import AuthForm from './Components/AuthForm';
 
-function App() {
+const App = () => {
     return (
         <div className="App">
             <AuthForm />
